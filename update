@@ -1,1 +1,5 @@
-
+Version vA5 UNSTABLE: 8th May, 2025
++ Added Steamworks.NET to Source to begin removing the old DRM protection used on DRM Legacy
++ Added Active Window Executable for Windows Status
++ TESTING: Added dynamic themes for the UI (Feedback will be appreciated)
++ Potential fix for random API Rate Limit #1
