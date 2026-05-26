@@ -1,1 +1,3 @@
-
+VarInt 9.1.0 - Uma nova vida ao seu espaço Varstep
+A interface VarInt 9.x.x é baseada em Flutter, e como novidade, todos os produtos Varstep Studios feitos em flutter/dart passarão a usar esta interface. 
+Esta nova UI traz várias correções e otimizações que no Discord Rich Me! VarInt 8 falhava. VarInt 9 também está disponível nas plataformas mobile.
