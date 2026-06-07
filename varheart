@@ -1,3 +1,5 @@
-VarInt 9 - Uma nova vida ao seu espaço Varstep
-A interface VarInt 9 é baseada em Flutter, e como novidade, todos os produtos Varstep Studios feitos em flutter/dart passarão a usar esta interface. 
-Esta nova UI traz várias correções e otimizações que no Discord Rich Me! VarInt 8 falhava. VarInt 9 também está disponível nas plataformas mobile.
+Notícia: VarInt 10, VarFlow 2 e VarInt 10e em desenvolvimento
+A interface VarInt 10 está em desenvolvimento juntamente com a app DevDashboard e Discord Rich Me! Engine.
+
+Discord Rich Me! passará a ser uma app gratuita para uso, passando a usar a VarInt 10e.
+VarFlow 2 veio substituir o UI antigo do Discord Rich Me! Engine, passando agora a ser usado na app PlanBoard.
